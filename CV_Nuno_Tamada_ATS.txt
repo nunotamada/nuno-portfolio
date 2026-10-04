@@ -1,0 +1,114 @@
+NUNO TAMADA
+Web, Mobile & AI Developer
+
+CONTACT INFORMATION
+Email: nunotamada12@gmail.com
+Phone: +62 821-9992-3850
+Location: Singaraja, Bali, Indonesia
+GitHub: https://github.com/nunotamada
+LinkedIn: https://www.linkedin.com/in/nuno-tamada-a69624254
+
+PROFESSIONAL SUMMARY
+Full-stack developer with expertise in React Native, Next.js, and Flutter. Shipped production mobile features for Konek Market (Google Play), developed full-stack LMS and e-commerce MVPs, and built Lumen—an advanced RAG knowledge desk with hybrid retrieval, streaming answers with citations, and evaluation metrics. Proficient in API/webhook integration, debugging workflows, and AI-assisted development practices. Remote-ready and focused on delivering high-quality user experiences.
+
+CORE TECHNICAL SKILLS
+Languages & Frameworks: React Native, React, Next.js, TypeScript, Flutter, Dart
+Backend & Databases: Firebase, Prisma ORM, PostgreSQL, SQLite, Supabase, REST APIs, Axios
+AI & Machine Learning: RAG (Retrieval-Augmented Generation), Groq LLM API, Google Gemini API, Vector Embeddings, BM25 Hybrid Retrieval
+Frontend & Styling: Tailwind CSS, Framer Motion, Vite, Figma-to-UI implementation
+Authentication & Security: JWT (httpOnly cookies), bcrypt password hashing, Supabase Auth, Google OAuth
+Development Practices: Git version control, debugging, API integration, webhook handling, Server-Sent Events (SSE), multi-tenant architecture, RLS (Row Level Security)
+
+PROFESSIONAL EXPERIENCE
+
+Mobile Developer Intern — PT Mari Buka Akses (Konek Market)
+August 2024 – December 2024
+• Shipped 6+ React Native features (Profile, Reviews, Promo, Chat, Tickets, Onboarding) for Google Play published consumer app serving Internet/WiFi aggregation ("Rekomendasi Internetku")
+• Integrated REST APIs with Axios across core user flows enabling provider discovery, subscription management, and ticket creation
+• Translated Figma designs into production-ready React Native components with responsive layouts and smooth animations
+• Debugged and resolved critical API integration bug blocking support ticket creation during production testing
+• Collaborated with 5-person cross-functional team (2 mobile, 2 web, 1 UI/UX) throughout development lifecycle and release
+• App URL: https://play.google.com/store/apps/details?id=com.konekmarket&hl=id
+
+Drive Test Engineer — PT YPTT Solutions Indonesia
+September 2021 – October 2021
+• Conducted mobile network drive tests using G-MoN Pro and Ookla tools measuring Streaming, Browser Speed, USSD, SMS, and CSFB performance
+• Analyzed LTE/3G network KPIs including RSRP, RSRQ, RSSI, SNR, RSCP, and EcNo metrics
+• Documented comprehensive throughput, latency, coverage, and signal analysis reports to support network optimization initiatives
+
+FEATURED PROJECTS
+
+1. Lumen — AI Knowledge Desk
+Repository: https://github.com/nunotamada/lumen
+Live Demo: https://lumen-five-umber.vercel.app
+Technologies: Next.js, TypeScript, React, Groq API, Supabase, RAG Pipeline, Vector Embeddings, BM25 Retrieval
+• Full-stack AI knowledge desk implementing Retrieval-Augmented Generation (RAG) with multi-user authentication and per-user document isolation
+• Hybrid retrieval system combining vector search and BM25 algorithms (weights: 0.55 vector + 0.45 BM25) for optimal relevance ranking
+• Streaming answer generation with in-line citations and source attribution using Groq API
+• Multi-tenant architecture with Supabase Auth (email/password and Google OAuth) and Row Level Security for data isolation
+• Document ingestion system supporting .txt, .md, and .pdf file formats with 10 sample documents per user account
+• Experiments dashboard comparing all 3 retrieval modes (vector-only, BM25-only, hybrid) with exportable JSON/CSV results
+• Evaluation framework implementing Recall@K and Precision@K metrics on golden test set achieving 0.8 second response time
+• Query latency and generation performance metrics dashboard with CSV export for thesis quantitative analysis
+• Chat history sidebar with per-user conversation isolation and message persistence
+
+2. LearnQuest LMS — Gamified Learning Management System
+Repository: https://github.com/nunotamada/learnquest-lms
+Live Demo: https://learnquest-lms-59vf.vercel.app
+Technologies: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, Prisma ORM, PostgreSQL, SQLite, JWT Auth, Server-Sent Events
+• Full-stack gamified LMS with separate admin and student dashboards serving course management and learner engagement
+• Admin features: course creation, module/lesson management (video/text/quiz), bulk asset upload, course publishing, cohort analytics dashboard
+• Student features: course enrollment, progress tracking percentages, deadline visibility, XP acquisition, level progression system
+• Assessment engine with timed quizzes, automatic grading, configurable passing score thresholds, and immediate feedback
+• Per-course discussion forums with threaded posts, replies, and community engagement features
+• Real-time progress updates via Server-Sent Events (SSE) eliminating polling overhead
+• Versioned REST API (/api/v1/*) with modular endpoints designed for future mobile client expansion
+• Database abstraction using Prisma supporting both SQLite (development) and PostgreSQL (production)
+• JWT-based session management with httpOnly cookies and bcrypt password hashing for security
+• Mobile-responsive design with Tailwind CSS and tested across Chrome, Firefox, Safari, Edge browsers
+• Deployed on Vercel with PostgreSQL integration
+
+3. VitalityCore AI — Personalized Fitness & Nutrition Tracker
+Repository: https://github.com/nunotamada/Vitality-Core
+Technologies: React 18, TypeScript, Vite, Tailwind CSS, Framer Motion, Node.js, Express, Google Gemini API
+• Highly polished full-stack fitness and nutrition companion with gamified user engagement and AI-powered personalization
+• AI workout generation: Gemini API creates tailored workout routines based on user physical goals with dynamic tracking
+• Smart nutrition logging system with meal cataloging, dynamic calorie counting, active hydration progress tracking, and personalized dietary recommendations
+• Wearable telemetry simulation with real-time heart rate monitoring, telemetry log history, and cardiovascular performance analysis
+• Gamification features: social competition via server-wide XP leaderboard, active daily challenges, custom social-share cards
+• Comprehensive notification and alert center with responsive, categorized event notifications (workouts, hydration triggers, achievements)
+• Interactive athlete profiles with biomechanical parameter sliders (Fluid Intake limits, Calorie Targets, Athletic metrics)
+• Community hub and social sharing features for competitive engagement among virtual athletes
+• Offline-first architecture with Local Storage synchronization for resilient user experience
+• Custom hybrid Express server architecture serving static assets and proxying backend queries with Gemini API credentials securely configured server-side
+• Frontend built with React 18, Vite, Tailwind CSS, and Framer Motion for elegant visual transitions and smooth animations
+• Lucide React icons for consistent, accessible iconography throughout application
+
+EDUCATION
+
+Bachelor's Degree in Informatics Engineering
+Universitas Pendidikan Ganesha, Bali, Indonesia
+Expected Graduation: 2026
+Currently completing final-year thesis project
+Thesis Focus: RAG-based knowledge retrieval systems with multi-modal retrieval strategies
+
+LANGUAGES & CERTIFICATIONS
+
+Languages: Indonesian (Native) · English (Professional/Conversational, B2 level)
+English Proficiency Certificate: EF SET B2
+Certificate URL: https://cert.efset.org/en/Kwn1u8
+
+ADDITIONAL COMPETENCIES
+• Full-stack development from concept to production deployment
+• API design and REST endpoint architecture
+• Database schema design and query optimization
+• Authentication and authorization systems
+• Real-time data synchronization and streaming
+• Cloud platform deployment (Vercel, Firebase, Supabase)
+• Responsive design and mobile-first development
+• Cross-platform development practices
+• Agile development and team collaboration
+• Git workflows and version control
+• Technical documentation and code comments
+• Performance optimization and debugging
+• User experience implementation from design systems
