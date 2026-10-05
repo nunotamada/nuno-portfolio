@@ -1,0 +1,44 @@
+NUNO TAMADA | Frontend Developer
+nunotamada12@gmail.com | +62 821-9992-3850 | github.com/nunotamada | linkedin.com/in/nuno-tamada-a69624254
+
+PROFESSIONAL SUMMARY
+Frontend specialist in React Native, React, and Next.js. Shipped 6+ production features for Konek Market (Google Play). Built responsive dashboards and interactive UIs with Tailwind CSS and Figma integration. Proficient in AI-assisted development (GPT, Claude, GitHub Copilot). Remote-ready, detail-oriented.
+
+CORE SKILLS
+Frontend Frameworks: React Native | React | Next.js | TypeScript | Flutter
+UI & Styling: Tailwind CSS | Framer Motion | Responsive Design | Figma-to-Code
+State & Routing: React Hooks | Context API | SSE | REST API Integration with Axios
+AI Development Tools: GitHub Copilot (daily) | GPT-4 | Claude
+IDEs & Tools: VSCode | Cursor (AI-powered editing) | Antigravity | Git
+
+PROFESSIONAL EXPERIENCE
+
+Mobile Developer Intern — PT Mari Buka Akses (Konek Market) | Aug – Dec 2024
+• Shipped 6+ React Native features (Profile, Reviews, Promo, Chat, Tickets, Onboarding) for Google Play app
+• Built responsive UIs from Figma designs; implemented smooth animations and transitions
+• Integrated REST APIs using Axios; debugged and fixed critical API blocking issues
+• Collaborated with cross-functional team (2 mobile, 2 web, 1 UX designer)
+Play Store: https://play.google.com/store/apps/details?id=com.konekmarket&hl=id
+
+Drive Test Engineer — PT YPTT Solutions Indonesia | Sep – Oct 2021
+• Analyzed mobile network performance metrics and documented findings
+
+FEATURED PROJECTS
+
+LearnQuest LMS — Student & Admin Dashboards | React • Next.js • TypeScript • Tailwind CSS
+https://github.com/nunotamada/learnquest-lms | https://learnquest-lms-59vf.vercel.app
+Gamified LMS with separate admin (course creation, analytics) and student (progress tracking, quizzes, forums) dashboards. Real-time progress updates, responsive design, JWT auth.
+
+VitalityCore AI — Interactive Fitness Dashboard | React • Vite • Tailwind • Framer Motion
+https://github.com/nunotamada/Vitality-Core
+Polished fitness companion with athlete profiles, biomechanical parameter sliders, workout tracking, nutrition dashboard, leaderboard, social features, notification center. Smooth animations and modern UI.
+
+Lumen — AI Knowledge Desk UI | Next.js • TypeScript • Tailwind CSS
+https://github.com/nunotamada/lumen
+Multi-user RAG knowledge desk with clean interface for document upload, chat interface with streaming answers and citations, experiments dashboard comparing retrieval modes.
+
+EDUCATION
+Bachelor's in Informatics Engineering — Universitas Pendidikan Ganesha | Expected 2026
+
+LANGUAGES
+Indonesian (Native) | English (B2 Professional) | https://cert.efset.org/en/Kwn1u8
